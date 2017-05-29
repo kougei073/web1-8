@@ -49,6 +49,26 @@ footer,header,hgroup,menu,nav,section {
     list-style-type:none;
 }
 
+#gnav div.img{
+display: table-cell;
+vertical-align: middle;
+background: url(図1.png)no-repeat;
+width: 55px;
+height:46px;
+}
+
+#gnav div.text{
+display: table-cell;
+vertical-align: middle;
+padding: 0 10px ;
+
+}
+
+div.img#home{background-position: 0 0px;}
+div.img#con1{background-position: 0 -46px;}
+div.img#con2{background-position: 0 -92px;}
+div.img#con3{background-position: 0 -138px;}
+
 .breadcrumbs li{
 display: inline;
 list-style-type:none;
@@ -72,6 +92,8 @@ list-style-type:none;
 #logo img{
 width: 100px;
 }
+
+
 
 blockquote, q {
     quotes:none;
