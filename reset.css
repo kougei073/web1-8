@@ -44,6 +44,8 @@ nav ul{
     top:0;
     width:100%;
     z-index: +1;
+    float:left;
+    border-right:#F0F8FF 1px solid;
 }
 
 blockquote, q {
