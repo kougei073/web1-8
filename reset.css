@@ -43,7 +43,7 @@ footer,header,hgroup,menu,nav,section {
 
 #gnav li{
     float:left;
-    width:100%;
+    width:156px;
     border-right:#F0F8FF 1px solid;
 }
 
