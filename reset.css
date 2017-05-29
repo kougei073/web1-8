@@ -48,6 +48,19 @@ footer,header,hgroup,menu,nav,section {
     list-style-type:none;
 }
 
+.breadcrumbs li{
+display: inline;
+list-style-type:none;
+}
+
+.breadcrumbs li:before{
+ content:"＞";
+}
+
+.breadcrumbs li:first-child:behore{
+content:"";
+}
+
 blockquote, q {
     quotes:none;
 }
