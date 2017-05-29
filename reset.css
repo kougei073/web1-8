@@ -45,6 +45,7 @@ footer,header,hgroup,menu,nav,section {
     float:left;
     width:156px;
     border-right:#F0F8FF 1px solid;
+    list-style-type:none;
 }
 
 blockquote, q {
@@ -56,6 +57,8 @@ q:before, q:after {
     content:'';
     content:none;
 }
+
+
 
 a {
     margin:0;
