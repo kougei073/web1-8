@@ -58,7 +58,7 @@ list-style-type:none;
  content:"＞";
 }
 
-.breadcrumbs li:first-child:behore{
+.breadcrumbs li:first-child:before{
 content:"";
 }
 
