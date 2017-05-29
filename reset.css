@@ -36,8 +36,14 @@ footer,header,hgroup,menu,nav,section {
     display:block;
 }
 
-nav ul {
+nav{
     list-style:none;
+    background-color:#ffa500;
+    position: fixed;
+    left:0;
+    top:0;
+    width:100%;
+    z-index: +1;
 }
 
 blockquote, q {
